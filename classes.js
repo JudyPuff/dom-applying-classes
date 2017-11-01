@@ -26,5 +26,9 @@ function two () {
 
 }
 // CREATE FUNCTION three HERE
+function three () {
+  var three = document.getElementById('three')
+  three.classList.add('orange')
 
+}
 // CREATE FUNCTION makeVisible HERE
